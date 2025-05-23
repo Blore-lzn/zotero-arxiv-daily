@@ -127,6 +127,7 @@ def get_block_html(
         abstract=abstract,
         pdf_url=pdf_url,
         code=code,
+        link=link,
         affiliations=affiliations,
     )
 
